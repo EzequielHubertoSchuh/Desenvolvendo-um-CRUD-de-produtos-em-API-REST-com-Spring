@@ -1,5 +1,5 @@
 # produtos-apirest
-API REST de produtos com Swagger-ui. Disponível em https://api-rest-spring-boot-produtos.herokuapp.com/swagger-ui.html#/produto45resource
+API REST de produtos com Swagger-ui. Disponível em https://api-rest-spring-boot-produtos.herokuapp.com/swagger-ui.html
 
 
 Acesso para lista de produtos: https://api-rest-spring-boot-produtos.herokuapp.com/api/produtos
